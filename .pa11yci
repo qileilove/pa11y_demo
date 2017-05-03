@@ -1,0 +1,15 @@
+{
+    "defaults": {
+        "timeout": 1000,
+        "page": {
+            "viewport": {
+                "width": 320,
+                "height": 480
+            }
+        }
+    },
+    "urls": [
+        "http://pa11y.org/",
+        "http://pa11y.org/contributing"
+    ]
+}
